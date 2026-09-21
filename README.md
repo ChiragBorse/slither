@@ -2,7 +2,7 @@
 
 A calm, good-looking snake game that runs in your browser. It comes as a single HTML file with no build step and no dependencies.
 
-**Live demo:** https://YOUR-USERNAME.github.io/slither
+**Live demo:** [https://YOUR-USERNAME.github.io/slither](https://chiragborse.github.io/slither)
 
 ## Features
 
